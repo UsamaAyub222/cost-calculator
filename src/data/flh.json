@@ -1,0 +1,14 @@
+{
+    "Cool": {
+        "Manufactured": 570,
+        "Single_Family": 570,
+        "Townhome_or_Rowhouse": 570,
+        "Apartment_or_Condo": 506
+    },
+    "Heat": {
+        "Manufactured": 1840,
+        "Single_Family": 1840,
+        "Townhome_or_Rowhouse": 1840,
+        "Apartment_or_Condo": 1840
+    }
+}

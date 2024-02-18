@@ -1,0 +1,14 @@
+[
+    {
+        "System": "Fossil_Fuel_Furnace",
+        "Efficiency": 0.8
+    },
+    {
+        "System": "Fossil_Fuel_Boiler",
+        "Efficiency": 0.84
+    },
+    {
+        "System": "Electricity",
+        "Efficiency": 1
+    }
+]

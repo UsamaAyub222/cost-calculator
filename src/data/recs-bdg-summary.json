@@ -1,0 +1,222 @@
+[
+    {
+        "Match": "NO",
+        "Unit_Type": "Manufactured",
+        "Age_Range": "Any",
+        "Sqft_Range": "Any",
+        "Observations": 2,
+        "Heating_Load_Btu": 77600000,
+        "Cooling_Load_Btu": 9530112.605999999,
+        "Additonal_Electric_kWh": 5200
+    },
+    {
+        "Match": "NO",
+        "Unit_Type": "Single_Family",
+        "Age_Range": "Before 1961",
+        "Sqft_Range": "1,500 sq.ft. or less",
+        "Observations": 3,
+        "Heating_Load_Btu": 54600000,
+        "Cooling_Load_Btu": 4002443.739,
+        "Additonal_Electric_kWh": 2700
+    },
+    {
+        "Match": "NO",
+        "Unit_Type": "Single_Family",
+        "Age_Range": "Before 1961",
+        "Sqft_Range": "1,501-2,999 sq. ft.",
+        "Observations": 15,
+        "Heating_Load_Btu": 59700000,
+        "Cooling_Load_Btu": 10550346.156,
+        "Additonal_Electric_kWh": 4000
+    },
+    {
+        "Match": "NO",
+        "Unit_Type": "Single_Family",
+        "Age_Range": "Before 1961",
+        "Sqft_Range": "3,000 sq.ft. or larger",
+        "Observations": 2,
+        "Heating_Load_Btu": 69400000,
+        "Cooling_Load_Btu": 4169638.746,
+        "Additonal_Electric_kWh": 5300
+    },
+    {
+        "Match": "NO",
+        "Unit_Type": "Single_Family",
+        "Age_Range": "1961-1990",
+        "Sqft_Range": "1,500 sq.ft. or less",
+        "Observations": 11,
+        "Heating_Load_Btu": 45900000,
+        "Cooling_Load_Btu": 6394355.982,
+        "Additonal_Electric_kWh": 2700
+    },
+    {
+        "Match": "NO",
+        "Unit_Type": "Single_Family",
+        "Age_Range": "1961-1990",
+        "Sqft_Range": "1,501-2,999 sq. ft.",
+        "Observations": 10,
+        "Heating_Load_Btu": 46300000,
+        "Cooling_Load_Btu": 6721921.71,
+        "Additonal_Electric_kWh": 4000
+    },
+    {
+        "Match": "YES",
+        "Unit_Type": "Single_Family",
+        "Age_Range": "1961-1990",
+        "Sqft_Range": "3,000 sq.ft. or larger",
+        "Observations": 11,
+        "Heating_Load_Btu": 48600000,
+        "Cooling_Load_Btu": 6971008.149,
+        "Additonal_Electric_kWh": 5300
+    },
+    {
+        "Match": "NO",
+        "Unit_Type": "Single_Family",
+        "Age_Range": "After 1990",
+        "Sqft_Range": "1,500 sq.ft. or less",
+        "Observations": 1,
+        "Heating_Load_Btu": 28900000,
+        "Cooling_Load_Btu": 4275415.1790000005,
+        "Additonal_Electric_kWh": 2700
+    },
+    {
+        "Match": "NO",
+        "Unit_Type": "Single_Family",
+        "Age_Range": "After 1990",
+        "Sqft_Range": "1,501-2,999 sq. ft.",
+        "Observations": 8,
+        "Heating_Load_Btu": 35900000,
+        "Cooling_Load_Btu": 5442368.085,
+        "Additonal_Electric_kWh": 4000
+    },
+    {
+        "Match": "NO",
+        "Unit_Type": "Single_Family",
+        "Age_Range": "After 1990",
+        "Sqft_Range": "3,000 sq.ft. or larger",
+        "Observations": 5,
+        "Heating_Load_Btu": 60100000,
+        "Cooling_Load_Btu": 12754590.534,
+        "Additonal_Electric_kWh": 6700
+    },
+    {
+        "Match": "NO",
+        "Unit_Type": "Townhome_or_Rowhouse",
+        "Age_Range": "Before 1961",
+        "Sqft_Range": "1,500 sq.ft. or less",
+        "Observations": 3,
+        "Heating_Load_Btu": 54600000,
+        "Cooling_Load_Btu": 4002443.739,
+        "Additonal_Electric_kWh": 2700
+    },
+    {
+        "Match": "NO",
+        "Unit_Type": "Townhome_or_Rowhouse",
+        "Age_Range": "Before 1961",
+        "Sqft_Range": "1,501-2,999 sq. ft.",
+        "Observations": 15,
+        "Heating_Load_Btu": 59700000,
+        "Cooling_Load_Btu": 10550346.156,
+        "Additonal_Electric_kWh": 4000
+    },
+    {
+        "Match": "NO",
+        "Unit_Type": "Townhome_or_Rowhouse",
+        "Age_Range": "Before 1961",
+        "Sqft_Range": "3,000 sq.ft. or larger",
+        "Observations": 2,
+        "Heating_Load_Btu": 69400000,
+        "Cooling_Load_Btu": 4169638.746,
+        "Additonal_Electric_kWh": 5300
+    },
+    {
+        "Match": "NO",
+        "Unit_Type": "Townhome_or_Rowhouse",
+        "Age_Range": "1961-1990",
+        "Sqft_Range": "1,500 sq.ft. or less",
+        "Observations": 11,
+        "Heating_Load_Btu": 45900000,
+        "Cooling_Load_Btu": 6394355.982,
+        "Additonal_Electric_kWh": 2700
+    },
+    {
+        "Match": "NO",
+        "Unit_Type": "Townhome_or_Rowhouse",
+        "Age_Range": "1961-1990",
+        "Sqft_Range": "1,501-2,999 sq. ft.",
+        "Observations": 10,
+        "Heating_Load_Btu": 46300000,
+        "Cooling_Load_Btu": 6721921.71,
+        "Additonal_Electric_kWh": 4000
+    },
+    {
+        "Match": "NO",
+        "Unit_Type": "Townhome_or_Rowhouse",
+        "Age_Range": "1961-1990",
+        "Sqft_Range": "3,000 sq.ft. or larger",
+        "Observations": 11,
+        "Heating_Load_Btu": 48600000,
+        "Cooling_Load_Btu": 6971008.149,
+        "Additonal_Electric_kWh": 5300
+    },
+    {
+        "Match": "NO",
+        "Unit_Type": "Townhome_or_Rowhouse",
+        "Age_Range": "After 1990",
+        "Sqft_Range": "1,500 sq.ft. or less",
+        "Observations": 1,
+        "Heating_Load_Btu": 28900000,
+        "Cooling_Load_Btu": 4275415.1790000005,
+        "Additonal_Electric_kWh": 3200
+    },
+    {
+        "Match": "NO",
+        "Unit_Type": "Townhome_or_Rowhouse",
+        "Age_Range": "After 1990",
+        "Sqft_Range": "1,501-2,999 sq. ft.",
+        "Observations": 8,
+        "Heating_Load_Btu": 35900000,
+        "Cooling_Load_Btu": 5442368.085,
+        "Additonal_Electric_kWh": 4000
+    },
+    {
+        "Match": "NO",
+        "Unit_Type": "Townhome_or_Rowhouse",
+        "Age_Range": "After 1990",
+        "Sqft_Range": "3,000 sq.ft. or larger",
+        "Observations": 5,
+        "Heating_Load_Btu": 60100000,
+        "Cooling_Load_Btu": 12754590.534,
+        "Additonal_Electric_kWh": 6700
+    },
+    {
+        "Match": "NO",
+        "Unit_Type": "Apartment_or_Condo",
+        "Age_Range": "Before 1961",
+        "Sqft_Range": "1,000 sq.ft. or less",
+        "Observations": 5,
+        "Heating_Load_Btu": 35600000,
+        "Cooling_Load_Btu": 1958569.508,
+        "Additonal_Electric_kWh": 1300
+    },
+    {
+        "Match": "NO",
+        "Unit_Type": "Apartment_or_Condo",
+        "Age_Range": "1961-1990",
+        "Sqft_Range": "1,000 sq.ft. or less",
+        "Observations": 6,
+        "Heating_Load_Btu": 36800000,
+        "Cooling_Load_Btu": 2661470.76,
+        "Additonal_Electric_kWh": 1300
+    },
+    {
+        "Match": "NO",
+        "Unit_Type": "Apartment_or_Condo",
+        "Age_Range": "1961-1990",
+        "Sqft_Range": "Larger than 1,000 sq.ft.",
+        "Observations": 1,
+        "Heating_Load_Btu": 41800000,
+        "Cooling_Load_Btu": 5404832.927999999,
+        "Additonal_Electric_kWh": 2100
+    }
+]

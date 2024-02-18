@@ -1,0 +1,10 @@
+[
+    {
+        "System": "Central_AC",
+        "SEER": 13
+    },
+    {
+        "System": "Window_AC",
+        "SEER": 10
+    }
+]

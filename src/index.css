@@ -1,0 +1,13 @@
+@import url("https://comed.fcg-staging.dev/wp-content/fonts/diodrum/stylesheet.css");
+
+body {
+  margin: 0;
+  font-family: "Diodrum Regular", "Open Sans", "Arial", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}

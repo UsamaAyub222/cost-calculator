@@ -1,0 +1,22 @@
+[
+    {
+        "Gas_Utility": "North_Shore_Gas",
+        "$/th": 0.44177625000000004,
+        "Fixed": 289.47785
+    },
+    {
+        "Gas_Utility": "Nicor_Gas",
+        "$/th": 0.6492,
+        "Fixed": 272.88
+    },
+    {
+        "Gas_Utility": "Peoples_Gas",
+        "$/th": 0.6034999999999999,
+        "Fixed": 408.12
+    },
+    {
+        "Gas_Utility": "Ameren_Illinois",
+        "$/th": 0.844102728,
+        "Fixed": 225.12
+    }
+]

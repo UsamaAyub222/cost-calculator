@@ -1,0 +1,14 @@
+[
+    {
+        "Fuel": "Electricity",
+        "kgCO2/Btu": 0
+    },
+    {
+        "Fuel": "Natural_Gas",
+        "kgCO2/Btu": 0.00011665
+    },
+    {
+        "Fuel": "Propane",
+        "kgCO2/Btu": 0.00013854
+    }
+]

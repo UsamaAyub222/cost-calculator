@@ -1,0 +1,17 @@
+[
+    {
+        "Propane_Level": "Low",
+        "$/gal": 1.77,
+        "Fixed": 139.8
+    },
+    {
+        "Propane_Level": "Medium",
+        "$/gal": 1.92,
+        "Fixed": 259.68
+    },
+    {
+        "Propane_Level": "High",
+        "$/gal": 2.3,
+        "Fixed": 301.68
+    }
+]

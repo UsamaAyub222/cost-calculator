@@ -1,0 +1,54 @@
+{
+    "Baseline_Electric_Rate": [
+        {
+            "Building_Type": "Manufactured",
+            "Natural_Gas": 0.1835,
+            "Propane": 0.1835,
+            "Electricity": 0.1499
+        },
+        {
+            "Building_Type": "Single_Family",
+            "Natural_Gas": 0.1835,
+            "Propane": 0.1835,
+            "Electricity": 0.1499
+        },
+        {
+            "Building_Type": "Townhome_or_Rowhouse",
+            "Natural_Gas": 0.1835,
+            "Propane": 0.1835,
+            "Electricity": 0.1499
+        },
+        {
+            "Building_Type": "Apartment_or_Condo",
+            "Natural_Gas": 0.1893,
+            "Propane": 0.1893,
+            "Electricity": 0.1547
+        }
+    ],
+    "Baseline_Electric_Fixed_Cost": [
+        {
+            "Building_Type": "Manufactured",
+            "Natural_Gas": 168.96,
+            "Propane": 168.96,
+            "Electricity": 186.71999999999997
+        },
+        {
+            "Building_Type": "Single_Family",
+            "Natural_Gas": 168.96,
+            "Propane": 168.96,
+            "Electricity": 186.71999999999997
+        },
+        {
+            "Building_Type": "Townhome_or_Rowhouse",
+            "Natural_Gas": 168.96,
+            "Propane": 168.96,
+            "Electricity": 186.71999999999997
+        },
+        {
+            "Building_Type": "Apartment_or_Condo",
+            "Natural_Gas": 135.72,
+            "Propane": 135.72,
+            "Electricity": 143.39999999999998
+        }
+    ]
+}

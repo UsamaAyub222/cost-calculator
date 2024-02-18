@@ -1,0 +1,64 @@
+{
+    "Propane": {
+        "prices": {
+            "Low": {
+                "per-gal": 1.77,
+                "fixed": 139.8
+            },
+            "Medium": {
+                "per-gal": 1.92,
+                "fixed": 259.68
+            },
+            "High": {
+                "per-gal": 2.3,
+                "fixed": 301.68
+            }
+        },
+        "Baseline-Efficiency": 80,
+        "Emissions-Intensity": 0.00006284
+    },
+    "Natural-Gas":{
+        "prices": {
+            "North-Shore": {
+                "per-th": 0.44177625,
+                "fixed": 289.47785
+            },
+            "Nicor": {
+                "per-th": 0.6492,
+                "fixed": 272.88
+            },
+            "Peoples": {
+                "per-th": 0.6035,
+                "fixed": 408.12
+            },
+            "Ameren": {
+                "per-th": 0.844102728,
+                "fixed": 225.12
+            }
+        },
+        "Baseline-Efficiency": 80,
+        "Emissions-Intensity": 0.00005291
+    },
+    "Electric": {
+        "prices": {
+            "Single-Family-Regular": {
+                "per-kwh": 0.164425723707665,
+                "fixed": 168.96
+            },
+            "Single-Family-Space-Heat": {
+                "per-kwh": 0.142462903834808,
+                "fixed": 186.72
+            },
+            "Multi-Family-Regular": {
+                "per-kwh": 0.156063955296404,
+                "fixed": 135.72
+            },
+            "Multi-Family-Space-Heat": {
+                "per-kwh": 0.141846203842941,
+                "fixed": 143.4
+            }
+        },
+        "Baseline-Efficiency": 100,
+        "Emissions-Intensity": 0
+    }
+}
